@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryank10&label=Profile%20views&color=00c2fb&style=flat" alt="aryank10" /> </p>
 
 - 📫 How to reach me **aryan08012021@gmail.com**
 
