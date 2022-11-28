@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<a href=#><img src="contributions.svg"></a>
-
 
 - 📫 How to reach me **aryan08012021@gmail.com**
 
