@@ -32,7 +32,7 @@
 ###
 
 <p align="left">Contacts</p>
-
+  <p align="left">Feel free to contact</p>
 ###
 
 <div align="left">
