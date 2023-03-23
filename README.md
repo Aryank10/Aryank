@@ -33,7 +33,6 @@
 
 <p align="left">Contacts</p>
   <p align="left">Feel free to contact</p>
-###
 
 <div align="left">
   <a href="https://www.instagram.com/ary4nk/" target="_blank">
