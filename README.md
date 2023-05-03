@@ -7,7 +7,7 @@
 
 ###
 
-<h1 align="center"  width="250">Hi 👋! My name is Aryan K</h1>
+<h1 align="center"  width="fit-content">Hi 👋! My name is Aryan K</h1>
 
 ###
 
