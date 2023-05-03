@@ -7,11 +7,11 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is Aryan K</h1>
+<h1 align="center"  width="250">Hi 👋! My name is Aryan K</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left" >👩‍💻  About Me</h3>
 
 ###
 
