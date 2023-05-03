@@ -4,9 +4,7 @@
 
   <img align="right" height="270" width="320" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"  />
 
-###
 </div>
-###
 
 <h1 align="center">Hi 👋! My name is Aryan K</h1>
 
