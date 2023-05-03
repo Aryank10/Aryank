@@ -1,4 +1,4 @@
-<img align="right" height="200" width="200" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"  />
+<img align="right" height="200" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"  />
 
 ###
 
