@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm from India<br><br>- 🔭 I’m 14<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learn new things or I play minecraft</p>
+<p align="left">I'm from India<br><br>- 🔭 I’m 14<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learn new things or I play games</p>
 
 ###
 
