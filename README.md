@@ -14,7 +14,9 @@
 
 ###
 
-<p align="left">I'm from India<br><br>- 🔭 I’m 14<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learn new things or I play games</p>
+<p align="left">I'm from India<br><br>- 🔭 I’m 14<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learn new things or I play games<br>- 
+<a href="https://www.youtube.com/@itsgoldo" target="_blank" >Subscribe!<a>
+</p>
 
 ###
 
