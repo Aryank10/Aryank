@@ -14,12 +14,11 @@
 
 ###
 
-<p align="left">I'm from India<br><br>- 🔭 I’m 14<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learn new things or I play games<br>- 
-<a href="https://www.youtube.com/@itsgoldo" target="_blank" >Subscribe!<a>
+<p align="left">I'm from India<br><br>- 🔭 I’m 14<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learn new things or I play games
 </p>
 
 ###
-
+<a href="https://www.youtube.com/@itsgoldo" target="_blank" ><h1>Subscribe!<h1><a>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
