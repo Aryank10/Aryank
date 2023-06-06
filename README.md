@@ -18,7 +18,7 @@
 </p>
 
 ###
-<a href="https://www.youtube.com/@itsgoldo" target="_blank" ><h1>Subscribe!<h1><a>
+<h1><a href="https://www.youtube.com/@itsgoldo" target="_blank" >Subscribe!<a><h1>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
