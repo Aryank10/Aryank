@@ -6,7 +6,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋! My name is Gold K</h1>
+<h1 align="center">Hi 👋! My name is Gold </h1>
 
 ###
 
