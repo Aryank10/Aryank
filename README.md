@@ -6,7 +6,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋! My name is Aryan K</h1>
+<h1 align="center">Hi 👋! My name is Gold K</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm from India<br><br>- 🔭 I’m 14<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learn new things or I play games
+<p align="left">I'm from India<br><br>- 🔭 I’m 15<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learn new things or I play games
 </p>
 
 ###
